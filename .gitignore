@@ -1,0 +1,7 @@
+# Personal data created by the tool - never publish
+backups/
+transcripts/
+*.db
+*.db-wal
+*.db-shm
+__pycache__/
